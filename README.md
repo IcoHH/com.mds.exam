@@ -7,7 +7,7 @@ formatted list of vessels which is accessible through alias
       1. This list which is provide by this application is hard coded in the java 
          code. In order to make our application more flexible propose a change of 
          JsonProviderServlet to provide dynamic list of vessels. Read the vessel 
-         list from a vessels.csv file in which is in the webapp folder.
+         list from a vessels.csv file in which is in the webapp folder.<br>
       2. Create a front page which will display the vessel list provided by the 
-         JsonProviderServlet. Make a good looking table with all available vessel data.
-      3. Create sort and filtering functionality for the table from the previous point
+         JsonProviderServlet. Make a good looking table with all available vessel data.<br>
+      3. Create sort and filtering functionality for the table from the previous point<br>
