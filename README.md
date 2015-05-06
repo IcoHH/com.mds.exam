@@ -11,3 +11,5 @@ formatted list of vessels which is accessible through alias <br>
       2. Create a front page which will display the vessel list provided by the <br>
          JsonProviderServlet. Make a good looking table with all available vessel data.<br>
       3. Create sort and filtering functionality for the table from the previous point<br>
+      
+      Propopsed Change by externa somedoby :)
